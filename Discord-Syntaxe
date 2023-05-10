@@ -1,0 +1,65 @@
+⚠️ You can of course not use the example of these words and use your own! ⚠️
+
+
+Title ( Big text ) 
+It will be necessary to # Title
+
+Title ( Medium Text ) 
+It will be necessary to ## Title
+
+Title ( Small Text ) 
+It will be necessary to ### Title 
+
+------------------------------------
+● First Item
+It will be necessary to - First Item 
+
+● First Item
+  ● Second Item
+    ● Third Item
+      ● Fourth Item
+It will be necessary to :
+- First Item
+  - Second Item
+    - Third Item
+      - Fourth Item
+      ( 4 item max ) 
+-----------------------------------
+Bold 
+It will be necessary to **Bold**
+
+Underline 
+It will be necessary to __Underline__
+
+Strikethrough
+It will be necessary to ~~StrikeThrought~~
+
+Hidden 
+It will be necessary to || Hidden ||
+
+code 
+It will be necessary to `code`
+
+code block
+It will be necessary to ```code block``` 
+
+Language Programmation
+It will be necessary to :
+```js / html / css / etc... 
+Languauge programmation 
+```
+
+https://site.com ( It will send the site without embedding )
+It will be necessary to <https://site.com>
+---------------------------------
+User Mention
+It will be necessary to <@USERID>
+
+Role Mention
+It will be necessary to <&ROLEID>
+
+Channel Mention
+It will be necessary to <#CHANNELID>
+---------------------------------
+To obtain an ID, you just have to do this.
+> User Settings > Advanced > Developper Mode
